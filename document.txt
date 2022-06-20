@@ -1,0 +1,9 @@
+workable Firebase Complete setup only for react native:
+login
+signup
+logout
+
+created by Anurudh Singh
+
+
+for more info you can contact on : anurudhsingh069@gmail.com
